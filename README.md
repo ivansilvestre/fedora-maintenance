@@ -1,2 +1,5 @@
-# fedora-maintenance
-Fedora maintenance script
+# Fedora maintenance bash script
+
+## command to run:
+
+`bash fedora-maintenance.sh`
